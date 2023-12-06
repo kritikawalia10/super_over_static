@@ -1,0 +1,74 @@
+#logo{
+    width: 160px;
+    max-height: 100px;
+    margin: 20px;
+    margin-top: 40px;
+}
+h1{
+    font-size: 60px;
+    font-weight: bolder;
+}
+section{
+    margin: 5%;
+}
+.container{
+    
+    justify-content: center;
+    gap: 30px;
+    width: 100%;
+}
+body{
+    color: aliceblue;
+    text-align: center;
+    background-size: cover;
+    background-image: url("https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/superover-bg.png");
+}
+.ball{
+    display: inline-block;
+    background-color: white;
+    margin-bottom: 10px;
+    text-align: center;
+    color: black;
+    width: 45px;
+    line-height: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    height: 50px;
+    border-radius: 50%;
+}
+.buttons{
+    width: 90%;
+    align-items: center;
+}
+.score{
+    font-size: 50px;
+    font-weight: bolder;
+}
+#btn1{
+    width: 100px;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 0 20px;
+}
+#btn2{
+    width: 100px;
+    font-size: 30px;
+    cursor: pointer;
+    margin: 0 20px;
+}
+#a{
+    background-color: #005fa2;
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+    margin: 20px;
+    border-radius: 40px;
+}
+#b{
+    background-color: #1fa83d;
+    border-radius: 40px;
+    display: inline-block;
+    width: 30%;
+    margin: 20px;
+}
